@@ -3,6 +3,7 @@
 
 ### Statistical Analysis & Data Visualization in R
 * [Multiple and Logistic Regression](https://github.com/DD-O/Multiple-and-Logistic-Regression-in-R/blob/main/Multiple-and-Logistic-Regression-in-R.pdf)
+* [Correlation and Regression](https://github.com/DD-O/Correlation-and-Regression-in-R/blob/main/Correlation-and-Regression-in-R.pdf)
 
 You can use the [editor on GitHub](https://github.com/DD-O/dd-o.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
