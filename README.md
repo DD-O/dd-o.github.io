@@ -1,11 +1,11 @@
 ### MATLAB Music
->> [Composing Music in MATLAB](https://github.com/DD-O/Composing-Music-in-MATLAB)
-
-### Statistical Analysis & Data Visualization in R
 <details>
-           <summary>[TITLE](link)</summary>
+           <summary>[Composing Music in MATLAB](https://github.com/DD-O/Composing-Music-in-MATLAB)</summary>
            <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
          </details>
+
+### Statistical Analysis & Data Visualization in R
+
 
 You can use the [editor on GitHub](https://github.com/DD-O/dd-o.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
