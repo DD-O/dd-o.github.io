@@ -1,6 +1,9 @@
-# Devin Otto's Portfolio
-## test 1
-### test2
+## MATLAB Music
+### [Composing Music in MATLAB](https://github.com/DD-O/Composing-Music-in-MATLAB)
+
+## Statistical Analysis & Data Visualization in R
+### [TITLE](link)
+
 
 You can use the [editor on GitHub](https://github.com/DD-O/dd-o.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
