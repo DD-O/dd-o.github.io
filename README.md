@@ -2,9 +2,8 @@
 >> [Composing Music in MATLAB](https://github.com/DD-O/Composing-Music-in-MATLAB)
 
 ### Statistical Analysis & Data Visualization in R
->>> [TITLE](link)
 <details>
-           <summary>Title 1</summary>
+           <summary>[TITLE](link)</summary>
            <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
          </details>
 
