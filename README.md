@@ -1,6 +1,6 @@
 ### MATLAB Music
 <details>
-           <summary>[Composing Music in MATLAB](https://github.com/DD-O/Composing-Music-in-MATLAB)</summary>
+           <summary> [Composing Music in MATLAB](https://github.com/DD-O/Composing-Music-in-MATLAB) </summary>
            <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
          </details>
 
