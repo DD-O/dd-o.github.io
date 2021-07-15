@@ -3,10 +3,10 @@
 
 ### Statistical Analysis & Data Visualization in R
 >>> [TITLE](link)
+<details>
            <summary>Title 1</summary>
            <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
          </details>
-
 
 You can use the [editor on GitHub](https://github.com/DD-O/dd-o.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
