@@ -1,7 +1,6 @@
 ### MATLAB Music
 <details>
-           <p> [Composing Music in MATLAB]<https://github.com/DD-O/Composing-Music-in-MATLAB> </p>
-         </details>
+         </details>  [Composing Music in MATLAB]<https://github.com/DD-O/Composing-Music-in-MATLAB> 
 
 ### Statistical Analysis & Data Visualization in R
 
